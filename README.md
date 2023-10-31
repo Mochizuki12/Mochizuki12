@@ -1,11 +1,11 @@
 ### Hello World!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mochizuki12&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochizuki12" />
-</a>
+<a><img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochizuki12&layout=compact&count_private=true&show_icons=true&theme=tokyonight" >
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mochizuki12&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" ></a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mochizuki12&theme=2077)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mochizuki12&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 <!--
 **Mochizuki12/Mochizuki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
